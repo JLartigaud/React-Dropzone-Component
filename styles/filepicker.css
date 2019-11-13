@@ -15,14 +15,12 @@ div.filepicker {
 /* Icon */
 .filepicker-file-icon
 {
-    position: relative;
-
+    color: black;
     display: inline-block;
-
     margin: 1.5em 0 2.5em 0;
     padding-left: 45px;
-
-    color: black;
+    position: relative;
+    pointer-events: none;
 }
 .filepicker-file-icon::before
 {
