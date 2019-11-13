@@ -30,3 +30,6 @@ node_modules
 uploads
 dist
 lib
+
+#webstorm IDE stuff
+.idea*
